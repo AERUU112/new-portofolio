@@ -11,7 +11,7 @@ Mulai dari layar medium (md): flex-row (sejajar)
         {/* Kolom Gambar */}
         <div className="w-48 h-48 md:w-64 md:h-64 relative">
           <Image
-            src="my-kisah.jpeg" // Mengambil gambar dari folder public
+            src="download.jpeg" // Mengambil gambar dari folder public
             alt="Lintang Hary Pratama"
             layout="fill"
             objectFit="cover"
